@@ -8,7 +8,9 @@ Brain Tumor Classification Using Deep Learning with Explainable AI
 ## 👤 Student Details
 **Name:** Muhammad Ali  
 **Registration Number:** 241383 
+
 **Semester:** BSAI-3B 
+
 **Course:** Programming for AI
 
 ---
